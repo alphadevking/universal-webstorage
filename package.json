@@ -1,6 +1,6 @@
 {
   "name": "universal-webstorage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "A universal, lightweight utility for managing web storage (localStorage, sessionStorage, etc.) with support for JSON operations, TTL, bulk actions, and React hooks.",
   "main": "lib/index.js",
