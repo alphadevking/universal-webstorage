@@ -1,7 +1,10 @@
 {
   "name": "universal-webstorage",
-  "version": "0.1.1",
-  "private": false,
+  "version": "0.1.11",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphadevking/universal-webstorage.git"
+  },
   "description": "A universal, lightweight utility for managing web storage (localStorage, sessionStorage, etc.) with support for JSON operations, TTL, bulk actions, and React hooks.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
