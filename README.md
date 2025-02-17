@@ -3,7 +3,7 @@
 
 **universal-webstorage** is a lightweight, universal utility for managing web storage based on the [MDN Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) specification. It provides a consistent API for core storage operations, bulk actions, JSON handling, and TTL (time-to-live) support. The library works with `localStorage`, `sessionStorage`, or any custom storage-like interface.
 
-> **Note:** For React-specific hooks and functionality, please see the separate [`universal-webstorage-react`](https://github.com/your-repo/universal-webstorage-react) package.
+> **Note:** For React-specific hooks and functionality, please see the separate [`universal-webstorage-react`](https://github.com/alphadevking/universal-webstorage-react) package.
 
 ## Features
 
@@ -171,7 +171,7 @@ For detailed API documentation, please refer to the [documentation website](#uni
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Please check the [issues page](https://github.com/alphadevking/msdkx/packages/universal-webstorage/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Please check the [issues page](https://github.com/alphadevking/universal-webstorage/issues) if you want to contribute.
 
 ## License
 
